@@ -4,6 +4,6 @@ function processArray(arr)
 }
 
 
-const numbers = [5, 10, 5, 20, 25, 30];
+const numbers = [5, 10, 15, 20, 25, 30];
 const result = processArray(numbers);
 console.log(result); 
